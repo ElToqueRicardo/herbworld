@@ -35,11 +35,11 @@ p {
 /* Sections */
 .colored-section {
   background-color: #287d0b;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 .white-section {
-  background-color: #fff;
+  background-color: rgb(213, 209, 209);
 }
 
 /* navigation bar */
@@ -98,7 +98,7 @@ p {
 }
 
 .icon:hover {
-  color: #517f52;
+  color: #679e68;
 }
 
 /* Testimonials */
