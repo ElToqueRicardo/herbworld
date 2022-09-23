@@ -93,21 +93,21 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #275c45;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #517f52;
 }
 
 /* Testimonials */
 #testimonials {
-  background-color: #ef8172;
+  background-color: #3f8663;
 }
 
 .testimonials-text {
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.5;
 }
 
@@ -118,7 +118,7 @@ p {
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: #3f8663;
   padding-bottom: 3%;
 }
 
