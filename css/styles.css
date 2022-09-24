@@ -16,7 +16,7 @@ p {
 .big-heading {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2.5rem;
   line-height: 1.5;
   color: #fff;
 }
@@ -48,7 +48,7 @@ p {
 }
 
 .navbar-brand {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Rubik Dirt", sans-serif;
   font-size: 2.5rem;
 }
 
@@ -139,7 +139,7 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
-}
+  }
 
 @media (max-width: 1028px) {
   #title {
@@ -158,4 +158,14 @@ p {
 .fab-fotter {
   padding: 0.6rem;
   margin-bottom: 1rem;
+}
+
+.for-footeri{
+  text-decoration: none;
+  color: #316e50;
+}
+
+
+.for-footeri:hover {
+  color: #679e68;
 }
